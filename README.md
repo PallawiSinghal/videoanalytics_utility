@@ -1,5 +1,5 @@
 # Video Data Processing Scripts and Blogs
-https://github.com/PallawiSinghal/videoanalytics_utility/assets/16499363/d44edaf7-489a-4a34-8c6f-3577b1b16636
+![DALL·E 2023-12-26 18 22 38 - Another conceptual illustration for a GitHub README, specifically for a Video Data Processing Scripts repository  The image should include elements re]
 ## Repository Description
 This repository contains a collection of scripts accompanied by easy-to-understand and implementable blogs, specifically tailored to solve various operations related to video data processing. The aim is to provide practical, real-world solutions and insights into the field of video analytics and processing.
 ## Contents
